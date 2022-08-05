@@ -11,3 +11,7 @@ Tableau dashboards I created can be found on my [Tableau Public profile](https:/
 A video of our final presentation (which I edited and put together) and Tableau files are available just not here on GitHub due to size constraints. 
 
 Feel free to reach out with any questions!
+
+---
+
+![image info](/080121_team_108_dashboard_navigator.jpg)
